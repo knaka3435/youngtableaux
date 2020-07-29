@@ -1,1 +1,1 @@
-#Some Partition code
+# Using Python to automate some young tableaux computations
